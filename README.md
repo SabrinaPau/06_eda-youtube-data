@@ -1,4 +1,4 @@
-# Exploratory Data Analysis - an example
+# Exploratory Data Analysis - An example
 
 In this repository you will work through an example EDA to be prepared for your first EDA project.
 ## Objective
@@ -12,4 +12,4 @@ After going through this code-along you will have an idea about
 
 ## Task
 Open the repository in VS Code and activate your nf_base environment.
-Please work in pairs through the [notebook](/Users/sina/neuefische/da-youtube_EDA/youtube_EDA.ipynb) and answer the tasks which are included there.
+Please work in pairs through the [notebook](https://github.com/neuefische/da-youtube_EDA/blob/main/youtube_EDA.ipynb) and answer the tasks which are included there.
