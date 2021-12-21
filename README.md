@@ -11,5 +11,5 @@ After going through this code-along you will have an idea about
 - how to build and answer hypotheses
 
 ## Task
-Open the repository in VS Code and activate your nf_base environment.
+Open the repository in VS Code and activate your eda_env environment.
 Please work in pairs through the [notebook](https://github.com/neuefische/da-youtube_EDA/blob/main/youtube_EDA.ipynb) and answer the tasks which are included there.
