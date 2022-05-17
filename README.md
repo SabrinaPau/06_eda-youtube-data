@@ -19,13 +19,13 @@ Please work in pairs through the [notebook](https://github.com/neuefische/da-you
 ## Setup
 
 For the Data Analytics Course: 
-- Open the repository in VS Code and activate your virtual environment(e.g. eda_env or nf_base).
+- Open the repository in VS Code and activate your virtual environment (e.g. eda_env or nf_base).
 
 For the Data Science Course:
 - Create a new environment:
 ```bash
 python -m venv .venv
-source .venv/bin/activate
+source .venv/bin/activate 
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
